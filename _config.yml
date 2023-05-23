@@ -21,16 +21,41 @@
 title: Brett Bim 
 email: osiris43+blog@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  My digital home for personal writing, thinking and contemplation.
+  "I write to discover what I believe"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brettbim.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brettbim 
 github_username:  osiris43 
 
+include: ["_pages"]
+
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

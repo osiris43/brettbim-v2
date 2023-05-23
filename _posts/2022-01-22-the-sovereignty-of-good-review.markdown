@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single 
 title:  "The Sovereignty of Good - Book Review"
 date:   2022-01-22 07:24:10 -0500
 categories: books reviews 
