@@ -1,11 +1,9 @@
-y's master branch as below:
-
 name: Build and Deploy to Github Pages
 
 on:
   push:
     branches:
-      - master  # Here source code branch is `master`, it could be other branch
+      - main 
 
 jobs:
   build_and_deploy:
