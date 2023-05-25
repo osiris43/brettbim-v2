@@ -1,0 +1,22 @@
+---
+id: 1928
+title: 'CrossFit Open Prep Day Minus 38'
+date: '2014-01-20T20:56:26-06:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1928'
+permalink: /2014/01/20/crossfit-open-prep-day-minus-38/
+categories:
+    - Exercise
+    - Food
+---
+
+It’s funny how fast days seem to go when you’re counting them down towards something. Already four days into this journey and feels like it’s only a month away. Today, the plan was to go to the gym at lunch to lift and then do boot camp after work. But then the WOD on the main site was [row 5k](http://www.crossfit.com/mt-archive2/009100.html) so I decided to do that instead. Ran to warmup and then did 5K in 22:03. This was the first time I’ve done a row of this length and I prefer it to running. It’s hard but there are so many variables to play with on the monitor on a Concept 2 that I can keep entertained, even on a day like this when I forgot my phone holder and had no external amusements. Stretched for cool down and then ran the boot camp after work without participating in it which was another first. I didn’t think an additional workout of intensity would be beneficial, especially when I plan to yesterday’s brutal main site WOD tomorrow.
+
+When did we start [naming our winter storms](http://www.weather.com/news/weather-winter/winter-storm-janus-forecast-20140120)? I understand hurricanes to some degree, there is a precedent there but isn’t this just sensationalism? The Weather Channel has become the CNN of meteorology and I know I can always find a video there of a black widow spider found in a bag of beans or a python eating an alligator which must affect the weather in Japan like a butterfly flapping its wings. Still, this ever increasing need to grab attention seems to be a slippery slope for which we have no good way of stopping the slide. Naming winter storms and shoving that in a headline is just link bait, a way to get more eyeballs on another page which ironically (possibly the Alanis Morrissette kind) I just supported by linking. It’s enough to keep me from going to the Weather Channel website. I remember the days when you could watch the Weather Channel on TV and actually see local weather. Now Weather on the Eights has probably become Weather on the Eight O’clocks and sensational weather related terror all other times. And ESPN used to show sports and MTV showed music videos. Hey you kids! Get off my damn lawn!
+
+Tonight, I made Stuffed Peppers from a recipe out of [Paleo Comfort Foods](http://www.amazon.com/Paleo-Comfort-Foods-Homestyle-Gluten-Free/dp/1936608936/ref=sr_1_1?ie=UTF8&qid=1390272426&sr=8-1&keywords=paleo+comfort+foods) which is a fantastic cookbook if you’re looking for low carb, paleo friendly recipes. One word to the wise, if you’re really going to be committed to paleo, there are some things you have to give up and I’ve decided fried foods are on the list. They have pictures in this cookbook of fantastic looking fried chicken and okra made with coconut and almond flour. I’ve tried both and frankly, what you get is coconut flavored goo encased chicken and okra.
+
+Other than that, the recipes have been outstanding including some to die for like the beef short ribs and the gumbo. Oddly, coconut flour and almond flour do not materially alter the roux for Cajun food. Highly recommended if you’re looking for variety in your Paleo cooking. Also Nom Nom Paleo’s latest cookbook [Food for Humans](http://book.nomnompaleo.com/) comes highly recommended though I haven’t gotten it yet.
+
+In other news, Mara is starting a 40 day challenge thing-a-ma-bob with [Yogasport](http://www.yogasportdallas.com/) and included in that is “drinking in moderation” which for us probably means “drinking on her birthday and Super Bowl but no other times”. And overall, that’s probably a good thing in the general scheme of things. I planted tomato and pepper seeds for transplants on Saturday, hope springing eternal especially after last spring’s 2 tomato harvest. 270 plants total though we’ll have to wait and see how many actually come up. I’ve got room to plant about 20 so the hope would be to sell the others for a buck or two each and recoop costs. It’s good to have a plan.

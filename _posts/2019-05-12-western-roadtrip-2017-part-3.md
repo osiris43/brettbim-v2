@@ -1,0 +1,46 @@
+---
+id: 2554
+title: 'Western Roadtrip 2017 Part 3'
+date: '2019-05-12T21:55:40-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=2554'
+permalink: /2019/05/12/western-roadtrip-2017-part-3/
+categories:
+    - Vacation
+---
+
+<figure class="wp-block-image is-resized">![](/wp-content/uploads/2019/05/IMG_20190508_203555-768x1024.jpg)</figure>Why does one do something like keep a stack of brochures and a sheaf of receipts around for 2 years? Perhaps from some sense of duty which was briefly discussed in parts one and two. A duty to what in particular? I guess it’s a duty to detail a set of experiences that one’s family enjoyed (mostly anyway though the last few days in a tiny trailer with 1 year old were rough) on an epic vacation. But to keep these things around for 2 years including an entire 9 months in a new house where the brochures literally laid either on the floor or the dresser for long periods of time as a reminder to one’s unfulfilled duty like a jury summons? What kind of monster inflicts that upon himself? All rhetorical as you might imagine since the answer is and always has been, me.
+
+What makes tonight the night to restart a series of blogposts detailing the adventure from 2017? I have no idea. But here we are, having arrived at the Black Canyon of the Gunnison and spent 2 nights exploring a wilderness so epic in scale it makes the mind swim. I’m not reading any moral philosophy currently which was the theme of the two posts last year. Instead I’ve recently finished The Alchemist and have just begun The Untethered Soul. It’s weird when the Universe or Fate or God seems to push all the stars into alignment on a particular theme or topic. Both of these two books have been on my Holds list at the Dallas library for months. Then they both suddenly came available at the same time. They are both concerned with being true to Self, one from a fictional perspective and one from a yogic-consciousness-awareness perspective.
+
+I’ve also read two biographies this year, one on e.e. cummings and one on Charles Goodnight. They both chased and arguably achieved their Personal Legend. The Alchemist details the story of a shepherd who leaves all that is familiar to find his own treasure. It’s a story about being true to what is important to oneself. The Untethered Soul is similar but is more of an instruction manual on the road of discovery. While I’m only a quarter of the way through, a main component to knowledge of Self is always having your heart open. So often, we walk around and live our lives with our hearts closed. In looking back at this roadmap, I realize my heart was closed a lot which led to some of the aforementioned friction of living in close quarters with a 1 year old for two weeks. It is our default to close our hearts out of fear and anxiety. But only by remaining open can we both change our own Self and the world around us.
+
+What does all this have to do with detailing this adventure almost 2 years later? I have no idea. Only that in many ways this two weeks was an expression of Self and that even though I failed at being open all of the time, I realize it was a mighty adventure worth writing about even at this late juncture.
+
+#### Friday August 18th, 2017
+
+Miles traveled: 206 miles  
+ We left Black Canyon at 9:07 AM and headed for Dinosaur National Monument in Jepsen, UT. We ate breakfast in Montrose before really getting on the road. It cost $34.41 and included a Pour Over Mama Bear Geen Chili Breakfast Burrito and a Bear Paw Bread. It was fantastic but you can see why it might have gotten to be tight quarters in a 14 foot trailer. That’s actually the only receipt I have from the day though I do remember stopping for lunch somewhere in Grand Junction, CO. Dinosaur National Monument and the Quarry there are really incredible. They built a huge building around an excavation of hundreds of dinosaur bones that you can walk though in air conditioning I might add which is a nice feature in August in Utah. We then hiked up to see some petroglyphs that date to the Fremont Culture which was the main draw for Mara. A short drive up the road led us to Josie Bassett Morris’ cabin. Here, Mrs. Morris lived by herself, miles from any fellow humans for 50 years (1913-1964). By herself. Her story is incredible. We then found a campsite in the Green River campground for one night. It’s a beautiful campground that I think we would have been happy to stay at for several nights. But Wyoming beckoned and we hit the road for Seminoe State Park the next morning.
+
+#### Saturday August 19th, 2017
+
+Miles traveled: 271 miles  
+ This was a long day of traveling and I have the receipts to prove it. While I only kept one from the day before, I have 8 from 8/19/2017. They include a trip to Walmart ($59.88 which included $10.97 for some Zinfandel and $3.98 for some Febreeze- Green Chili Burrito nightmares recurring), lunch at Denny’s for $14.49, a $100 ATM withdrawal (the Powerball had reached almost a billion on this trip so I was buying a ticket), a piece of pizza from Flying J’s (I didn’t want Denny’s), two gas fill-ups ($2.65 a gallon in UT, $2.30 a gallon in WY), 1 12 pack of Coors Original for $13.79 and four yogurts and some pork rinds from Flying J. It was a long drive. Also, southern Wyoming is not the Wyoming of the Tetons or Yellowstone. It is mostly a flat expanse of prairie with more pronghorn antelope than you can imagine. Mara got tired of me pointing out the herds there were so many. But when you come from the plains of Amarillo and they are a real treat to see, I couldn’t help but be excited each time they were just grazing by the side of the road. Once in Seminoe, there wasn’t a lot to do. We mainly had picked this spot because it was as close to the full eclipse as we thought possible. The park is really pretty with a huge lake and a really interesting settlement of people who live in a mobile home park out of the Twilight Zone.
+
+On Sunday, we drove back into town for some supplies and an ice chest because the fridge had stopped working very well. This was also the first time we broke out the generator just to get some air going in the trailer. We also bought Harper her first camp chair which we have to this day. We met some nice people from Boulder, CO who were also up for the eclipse. They took their paddle boards out into the lake several times. I stuck my hand in the lake and realized there were people in the world who were heartier than I. Even in August, the water couldn’t have been much above 55 degrees.
+
+On Monday we broke camp and left the trailer there. While talking to our friends from Boulder, they had told us about the road up out of Seminoe to the north that was a shortcut to Cheyenne. I had assumed we would watch the eclipse from the park but when we heard about the shortcut, sanity (mostly Mara’s) prevailed and we packed up the morning to drive up a crazy road through the mountains to get into the full eclipse. I’m glad we did because the experience was crazy. It was shorter than I expected and not dark like night. But to be standing in the middle of a field in the middle of the day and suddenly be in darkness with the birds quiet is eerie. I took several pictures but none of them do it justice. Just an amazing moment to experience.
+
+When it was over, we packed up and headed back to get the trailer and drive to Steamboat. That story will have to wait, though hopefully not 9 months as the receipts are scattered all over the bedroom floor.
+
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0397-681x1024.jpg)<figcaption>Green River, UT</figcaption>](/wp-content/uploads/2019/05/DSC_0397-681x1024.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0403-1024x681.jpg)<figcaption>Green River, UT</figcaption>](/wp-content/uploads/2019/05/DSC_0403-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0409-1024x681.jpg)<figcaption>Green River, UT campsite</figcaption>](/wp-content/uploads/2019/05/DSC_0409-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0410-1024x681.jpg)<figcaption>A morning friend</figcaption>](/wp-content/uploads/2019/05/DSC_0410-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0417-1024x681.jpg)<figcaption>Wyoming starkness</figcaption>](/wp-content/uploads/2019/05/DSC_0417-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0427-1024x681.jpg)<figcaption>eclipse</figcaption>](/wp-content/uploads/2019/05/DSC_0427-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0440-1024x681.jpg)<figcaption>Seminoe Lake, WY</figcaption>](/wp-content/uploads/2019/05/DSC_0440-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0447-1024x681.jpg)<figcaption>Seminoe SP Campsite</figcaption>](/wp-content/uploads/2019/05/DSC_0447-1024x681.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/DSC_0450-1024x629.jpg)<figcaption>Another morning friend</figcaption>](/wp-content/uploads/2019/05/DSC_0450-1024x629.jpg)</figure>
+- <figure>[![](/wp-content/uploads/2019/05/IMG_20170818_102824-1024x768.jpg)<figcaption>Good breakfst spot in Montrose, CO</figcaption>](/wp-content/uploads/2019/05/IMG_20170818_102824-1024x768.jpg)</figure>

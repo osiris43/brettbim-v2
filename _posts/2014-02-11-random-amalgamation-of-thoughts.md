@@ -1,0 +1,23 @@
+---
+id: 1941
+title: 'Random Amalgamation Of Thoughts'
+date: '2014-02-11T06:28:34-06:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1941'
+permalink: /2014/02/11/random-amalgamation-of-thoughts/
+categories:
+    - Exercise
+---
+
+That’s a fun post title, no? I’m ten hours into a 24 hour fast and while not hungry, I woke up thinking about food. It’s interesting what your body and mind think are important. Mara is doing a three day fruit fast and I didn’t want her to be the only one who could complain about things. The Open is seventeen days away and I feel like I’m making some progress towards it though I’m nowhere near strong enough at this stage. Yesterday I worked on GHD situps which I have to hope don’t show up in a WOD since my ability to do them is limited by equipment (only have the necessary contraption at Gold’s) and therefore by my reps in preparation. Also rowed 2000 as a benchmark, hoping for something sub 8 minutes but came in at 8:10. So while I feel like I’ve been working out a lot more than the last six months, there is definitely a deficit of training that isn’t going to go away in 40 days.
+
+The fast comes about because I’ve heard quite a bit about intermittent fasting and have been curious to try it. In some ways, I’ve been doing it already on days that breakfast consists of pseudo not trademarked bulletproof coffee. However, even on those days, I’ve eaten fruit when hungry so I don’t think that exactly qualifies. I read a good summary of the literature over on [Nerd Fitness](http://www.nerdfitness.com/blog/2013/08/06/a-beginners-guide-to-intermittent-fasting/) and there are two main ways to do IF, skip a meal all the time or 1-2 times a week go 24 hours without eating. I’d rather be really miserable occasionally rather than slightly miserable every day so I’m starting with the 24 hour fast. Today is a semi rest day though that’s been altered a little by a lifting schedule that involves lifting every day as well as the desire to see what doing a solid metcon after a fast is like.
+
+IF has the known effect of increasing insulin sensitivity. When you combine that with decreased glycogen stores in the liver after a fast, you have the body primed to actually use the food you eat instead of having it store it as fat. Of course, I’m not as worried about storing food as fat. However, fasting has a known positive effect on the [production of growth hormone](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC329619/?utm_source=Daily+Subscribers&utm_campaign=c2e369170c-RSS_EMAIL_CAMPAIGN&utm_medium=email) and thus, the theory is that combined effect of increased insulin sensitivity and increased production of growth hormone after a fast will result in more muscle growth as well. On top of all that, everyone thinks I like to torture myself so this just adds fuel to that fire as well. My plan is to go 8 PM to 8 PM occasionally and see if there are any noticeable strength or muscle gains. I’ll lift heavy at the tail end of a fast as well as pretend like I’m chasing down an antelope on the African plains by doing some metcon work greater than 10 minutes in length because the medical evidence seems to point out that high intensity exercise longer than 10 minutes produces the most growth hormone.
+
+Given that this is a random amalgamation of thoughts, I really hate the currently popular meme epitomized over on Nerd Fitness of using **BOLD TEXT** everywhere in a post. It’s popping up everywhere and tells me that our ability to make a point with our language is continuing to diminish and we are resorting to tricks. Your words should carry the power to entertain, inform and engage the reader. All that bolding and italicizing is annoying to anyone paying attention and probably doesn’t help engage those people who can only intake information in 140 character chunks. While it might be the literary logical conclusion to a world where everyone has to scream to get attention, let’s take a moment and try to assume our reader (all 13 of mine, each of which is intelligent and well versed) can get the emphasis without the need to reach for the strong tag every paragraph.
+
+The [price of gold and silver are going up](http://jessescrossroadscafe.blogspot.com/2014/02/gold-daily-and-silver-weekly-charts_10.html) after a long repression through shenanigans in the paper market. That will be a critical piece of the coming changes in the world currency markets. Just an FYI.
+
+While we’re on an FYI note, if you like live theater, go see On The Eve at [Theatre Three](https://www.facebook.com/theatre3dallas) while you still can (extended through the weekend). It’s a rock musical written by a local band (among others) and it’s really good.

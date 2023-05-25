@@ -1,0 +1,27 @@
+---
+id: 2439
+title: 'What Will It Take'
+date: '2018-07-13T06:51:59-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=2439'
+permalink: /2018/07/13/what-will-it-take/
+categories:
+    - Uncategorized
+---
+
+What does one do about gun violence in America? What does one do? As Dr. Brian Williams says in the production of Babel, if 20 dead white kids in Sandy Hook can’t rally America and her Congress to do even the simplest of things like a universal background check which 90% (read that again, NINETY PERCENT) of Americans supports, what can happen to foster change?
+
+This speaks to a more fundamental problem with America today, this disconnect between her citizens and her elected leaders. This is an idea that 9 in 10 Americans supports including 70% of NRA members yet when legislation comes up after Sandy Hook to implement universal background checks before purchasing a gun, it gets voted down in the Senate. What can we possibly hope to achieve or change when 20 white kids get shot at their school and nothing changes?
+
+Fundamentally, I think this underlying issue is why both Obama in 2008 and Trump in 2016 were elected, each by their own movements but for a core reason: the American people want something to change. They may not know what that is but they know what we have is no longer working. And so they elected a young, African American Senator in 2008 hoping for change. Contrary to the Democratic elite’s public line, they got very little. So another faction in America took control and elected a total outsider to the process, someone who ran as a populist but that has turned out to be an authoritarian crazy person. Change doesn’t particularly seem forthcoming in this administration either. The oligarchs remain fully entrenched. So at what point do the American people, badly underserved by the financialized political system that has evolved out of Wall Street and Citizens United, decide to do something even more radical than Trump?
+
+In the comforts of our homes with our big screen TVs purchased on credit, we largely remain distracted, too distracted to actually do anything. It seems crazy to think of a revolution in this country, a real revolution, but revolutions have happened in countries like ours in the past and the comfortable in those countries never saw it coming.
+
+I don’t have any real answers. I feel compelled in many ways to try to impart change but my day to day life is so overwhelming that I can’t even imagine when to contribute time to a cause. I can only assume it is worse for people in worse situations then I am so when change comes, it seems likely to originate from places and people so bad off that they don’t even operate in the normal channels of change in America. And maybe those channels only exist in the minds of idealists and academics anyway.
+
+When we can’t get a protection or a law voted on in Congress that 90% of Americans support yet every day laws are written by our elected leaders that no one has read except the lobbyists that crafted them, it just seems like we’re ripe for a different kind of change to sweep the land, a stronger, more violent change riding on a wind of oppression and apathy, a change that stops being civilized and starts being a great deal more animalistic. Perhaps we are too distracted by our lives of convenience but societies rise and fall throughout history so there is nothing special saying it couldn’t happen here.
+
+As of February of this year, there have been 63 school shootings as defined conservatively by Time using [EveryTown.org’s](http://time.com/5168272/how-many-school-shootings/) data on school shootings. 63 times some idiot or deranged person has walked onto a school campus and shot people. Yet nothing changes. Today, we send our kids to schools across the land and squash those insidious fears in the back of our head that today, it could be our school that it happens to. Maybe the thought of the event is just so alien and horrifying, that the part of our brain that might rationally act to foster change can’t function. Maybe our lives, like mine, are so worn down by the day to day demands that we can’t even be brought to write a letter to an elected representative. Maybe the problem is so broad and so complex that we don’t know where to even start. But it strikes me as problematic that our kids are being killed by weapons of war in places they should be most safe and we are doing nothing about it.
+
+Why can’t we institute universal background checks? I guess it’s because the people who could demand it are so overwhelmed or apathetic or desensitized to events in the world and can’t be bothered to do the hard work of forcing our leaders to implement our collective will. But it’s even more fundamental to that. Our elected leaders know that when these horrific events happen, they are seemingly random anomalies that in our 24 hour news cycle will grab headlines one day and disappear from the collective conscious the next. There is no pressure, no constant throbbing pressure to change because all we do is move to the next link on a web page. Until it happens that enough people stay engaged for long enough to convince the idiots we elect to actually do something, the status quo remains. Only at Presidential election time does the populace seem sufficiently organized and focused to do something crazy. I can’t imagine what it will take in America to actually make a difference at a national level. Ironically, I’m not sure I’ll be able to stand it when it does happen.

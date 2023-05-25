@@ -1,0 +1,28 @@
+---
+id: 1913
+title: 'On Antifragility'
+date: '2014-01-15T06:28:19-06:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1913'
+permalink: /2014/01/15/on-antifragility/
+categories:
+    - 'Book Review'
+    - Culture
+tags:
+    - antifragile
+---
+
+> *Une maison est une machine-à-habiter. A house is a machine for living in.”* Le Corbusier in Vers une architecture (1923)
+
+Le Corbusier was a French architect, urbanist and writer influential in the early 20th century on urban planning. He was an idealist who saw the slums of Paris and dreamed of imposing order on them. He saw the slums as crowded, dirty and lacking morality. Le Corbusier envisioned a *Contemporary City* with 60 story cruciform skyscrapers enshrouded in glass to house the homes and offices of the wealthy. These huge buildings were placed in large, rectangular green space areas. In his utopian city, as you moved farther from the city center of the skyscrapers, zigzag multistory buildings would house the less wealthy. Early on, Le Corbusier recognized the impact the automobile was going to have and his ideas influenced the modern urban planning zeitgeist of urban centers redeveloped to be high density areas connected to outlying suburban and rural lower income housing by freeways.
+
+Le Corbusier looked at the randomness and disorderliness of the slums and longed to impose order and homogeneity on them. He saw inefficiencies in the organization of humanity and created a landscape that was efficient if nothing else. His greatest desire was to make things a machine as evidenced by the opening quote. Things should fit in a box in the most efficient manner possible. Of course, the problem is, in nature and in humanity, the efficient and the homogenous are delicately fragile. Something that is highly efficient has little redundancy built in and fails at the first wrench thrown into the works. Homogenizing the living arrangements of the poor results in even greater disparity in class structure, in modern times leaving a vacuum often filled with gangs, drugs and violence (see the [Cabrini-Green Housing Project](http://en.wikipedia.org/wiki/Cabrini%E2%80%93Green)). We know now (though we have yet to internalize it at any real societal level) that separating the classes by gates, walls and miles of freeways leads to inhospitable cities lacking in vibrancy. It may be efficient to put all the offices downtown and have all the proletariats drive in from the suburbs but it leaves the city desolate and the people unhappy.
+
+*[Antifragile: Things that Gain From Disorder](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/ref=sr_1_1?ie=UTF8&qid=1389383698&sr=8-1&keywords=antifragility)* is Nassim Taleb’s latest book dealing with concepts he has spent the last several years exploring. It defines a new term, antifragile, as the exact opposite of fragile, more than robust or resilient but actually a system, body or item that improves under stress. This new term is required in many ways as our language lacks the precise description of the concept. Robust is the closest we can achieve but this is lacking in that something robust deals with stress well, is neither harmed nor improved but doesn’t actually grow stronger under stressors.
+
+The concept is fascinating and applies to many aspects of modern life, typically in the negative. For the past half decade or more, we have been marching away from the antifragile in politics, economics, medicine, personal health, personal and national financial responsibility and philosophy. Our systems are more and more planned and efficient, hallmarks of the fragile. We struggle mightily to remove the variability in the system whether that’s our economic system or our daily health. We bail out TBTF banks to prevent them from failing and causing a ripple effect on the world economic scene and we sit on the couch taking ADD medicine and Prozac to avoid the highs and lows of emotional daily life. We pore over daily status updates and Twitter feeds and empty news stories constantly increasing the noise and pointless information while decreasing the signal and meaningfulness in our lives. Every day, our society becomes more fragile and largely, so do we as individuals. If there is one thing nature hates, it’s a planned, efficient fragile system yet that’s what we are constantly striving to create. Avoiding the risks and bumps of a system by kicking the can down the road necessarily fails poorly.
+
+The urban planning of Le Corbusier with its hope for utopia and imposed order on a functionally messy and disorderly system was doomed to be fragile. In a complex system, top down planning cannot hope to capture all the possible ramifications of decisions and outside effects. These decisions eventually will manifest themselves in novel and disturbing ways. Our economic system, protected by the elites of government from the variability necessary to make it stronger, failed magnificently in 2008 and nothing has changed. The interconnectedness and complexity of the economic system dictates that future variability and shock will cause unforeseen and disturbing effects.
+
+I’m hoping to write several posts on the topics and ideas of this book examining the concepts of fragility and antifragility and how they relate to so many aspects of our current cultural, personal and socio-economic lives. To be fragile is to largely be miserable and while it is difficult, it is not impossible to move farther on the continuum away from fragility and towards a more robust and possibly antifragile life and culture.
