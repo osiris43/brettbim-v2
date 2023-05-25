@@ -1,0 +1,23 @@
+---
+id: 1804
+title: 'Early Spring Garden'
+date: '2013-02-21T21:17:04-06:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1804'
+permalink: /2013/02/21/early-spring-garden/
+categories:
+    - Gardening
+---
+
+February 10th, we set out the early garden for the spring. The weather here has been mild to say the least with the exception of a week long cold snap in January. We’ve had very few freezes, maybe 2 in all of February alone, no more than 10 for the winter I don’t think. Even now, the 10 day forecast looks more like spring than late winter. We bought several things from Covington’s including Texas 1015 yellow onions, Yukon Gold potatoes, Bordeaux spinach, super sugar snap peas, heirloom beets, cilantro and five color sliverbeet chard. From Home Depot, we got Martha Stewart turnips, brussel sprouts and mesclun (which is different from mescaline according to the DEA and not currently available at Home Depot). When we got home, the neighbors had bought a flat of cauliflower and broccoli and couldn’t plant it all so they gave us 4 each of those.
+
+A digression: Why does Martha Stewart have her own line of turnips or any other vegetable? Did she channel her inner Gregor Mendel and create a new strain of purple topped, white globe turnips? Or is this merely the next step in the commercialization of an empire? At what point does having Martha Stewart’s name on a package of vegetable seeds sell more seeds? Can I ask anymore rhetorical questions? And while were on the subject, in an zombie apocalypse cage fight, do you want Martha Stewart, Heloise or Marilyn Vos Savant? I fail to believe that Martha Stewart has a bunch of seeds stockpiled somewhere even though she has her name plastered across an entire section of seeds at Home Depot. On the upside, she did spend a significant period of time in jail and that might come in handy when we need to stab zombies in the head with a shiv. I can see Heloise being super helpful in the zombie apocalypse with cheery little hints about how you can make socks from yucca fibers and how zombies are allergic to orange oil. Vos Savant, I think you just bring along for the potential, like if you need to solve a Monty Hall zombie problem. I think you pick Heloise and hope she can shoot a gun.
+
+Everything but the potatoes and brussel sprouts went in the 10th. Those two went in the 18th. We got some good rain on the 12th, maybe an inch or so which you would think would have led to good germination but so far, only the the spinach and some of the Martha “Mendel” Stewart turnips have come up. I planted the potatoes on the north side of the house in the keyhole garden which should give them plenty of room to expand and allow me to cover them up to about 2 feet.
+
+We planted a pot with radishes and spinach. The resident armadillo dug it up completely last night. This is the fourth time he’s dug up that pot. I try to be friendly with the neighborhood fauna. I’ve found mice in the house before and I (with the help of a cat who shall remain nameless because she is a terrible mouser but will sit and stare at the location of said mouse for hours) have captured them and released them out by the creek. Lizards are regularly saved from certain death as they are the only creature any cat in this house will kill. A baby rabbit was discovered under the pomegranate tree once and released outside the strike distance of a certain dog willing to kill anything in the backyard. But I swear, if that armadillo shows up when I’m around and awake, he’s liable to encounter a .22 bullet fired from reasonably close range. I guess I’ll try cayenne first but that’s the last straw.
+
+Speaking of straw, the beds on the north side of the house were built using the no dig lasagna method last year and the straw and alfalfa have broken down enough that they will require a good deal more dirt or lasagna to plant this year. As warm as the weather has been, I’m thinking tomato and late spring veggies will be going in the ground soon and I’m not sure I’ll have as much space as I would like. Maybe have to check out square foot gardening as a result.
+
+This weekend, the roses will get pruned back pretty severely as they did not perform very well last year. It’s a good time to put out mulch and plant trees so we might take a trip to the Classic Gardens to look for fig or other fruit trees since they were having a big sale a couple of weeks ago. Other than that, all is quiet on the gardening front in Wylie.

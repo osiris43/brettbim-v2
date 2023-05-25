@@ -1,0 +1,19 @@
+---
+id: 2047
+title: 'The Blood Moon and Inflation'
+date: '2014-04-15T06:15:44-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=2047'
+permalink: /2014/04/15/the-blood-moon-and-inflation/
+categories:
+    - Random
+---
+
+Last night at around 3 AM I watched the blood moon eclipse from the backyard. It was a fascinating experience that felt primal as if I were living 400 years earlier when an occurrence of a total eclipse would have been something people revered or even feared. Watching the moon go dark would have been a form of entertainment, one seemingly simple in our environment of constant entertainment. It was a clear night last night, perfect for star gazing. The coyotes were prowling off in the distance and twice became quite vocal. The hunting was probably good for the predators last night even with the moon eclipsed as it was very bright. At about 2 AM, when the moon in three quarter eclipse, a night bird flew over my head at about 10 feet. He made no noise and was above me and gone almost before it registered. It reminded me of the scene in *The Orchard Keeper* when the owl claims the cat.
+
+I thought about the interaction of the earth’s and moon’s movements last night. My mental model still isn’t right for the seasonal changes of the earth but I think I have a good idea how the earth’s rotation and revolution affect things like lunar eclipses. It’s quiet at 3 AM (at least when you view the eclipse alone, apparently some friends had their kids up and it was more like a slumber party) and easy to think. With the chill, there weren’t any bugs to worry about and it was a peaceful event.
+
+Speaking of chill, Mother Nature again decided to mock global warming by sending a cold front with freezing temperatures into the area well past average freeze date. Lows were right at 32 though likely colder out in the more rural areas including our house beyond the concrete jungle. We covered all the sensitive veggies last night with an assortment of tools. They will remain covered into tomorrow as the temps are near 35 tomorrow night as well. The squash and tomatoes were just starting to really dig in and grow. Hopefully, this will not be a significant setback.
+
+Prices of [meats, poultry, fish and eggs rose 4 percent in February](http://www.bls.gov/ro3/apmw.htm) compared to a year earlier but of course, the government says there’s no inflation in the Consumer Price Index. Thankfully, chocolate chip cookies and sugar are both down over 7%, a sign of our misguided nutritional system. We don’t worry too much about those silly volatile items like food and energy even though those are the prices the poor and middle class are most affected by. It’s yet another way the oligarchy becomes more powerful. Prices are affected by the ongoing widespread drought along with a virus that is killing piglets on farms across the country. The drought isn’t something within our control but of course, our increasingly industrialized modern farming system easily could be exacerbating a swine epidemic. Pigs are raised on often inhumane environments and an outbreak could metastasize. Because it’s a virus, our normal procedures of throwing antibiotics at the problem will be ineffective. Just one more way modern agriculture weakens our food supply. Too much sameness and efficiency results in fragility and susceptibility to black swan events. Our confidence in our own ability to circumvent Mother Nature on a large scale leads to greater problems. Perhaps the blood moon will signify the return of the rain gods and lessen the drought in a meaningful way.

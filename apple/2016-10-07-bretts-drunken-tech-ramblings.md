@@ -1,0 +1,39 @@
+---
+id: 2316
+title: 'Brett&#8217;s Drunken Tech Ramblings'
+date: '2016-10-07T21:06:07-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=2316'
+permalink: /2016/10/07/bretts-drunken-tech-ramblings/
+categories:
+    - Technology
+---
+
+Steve Yegge once wrote an internal blog at Amazon that later became a public blog not at Amazon called [Stevey’s Drunken Blog Rants™](https://sites.google.com/site/steveyegge2/blog-rants). Anything I do here is a poor approximation of those masterpieces but we must all have mentors to look up to and convince us we are still terrible. So this is a Friday night, three glasses of wine and possibly one more on the way rambling about what I’ve been thinking about in tech today or this week or possibly it will devolve into kitten videos. Who knows.
+
+[![screen-shot-2016-10-07-at-9-11-43-pm](http://www.anexperimentinscotch.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-07-at-9.11.43-PM-1024x634.png)](https://twitter.com/BrettBim/status/784100162373234688)
+
+Lots of thinking lately on old code, rewrites, fancy new technologies and a monstrous Windows Service that can’t be opened in anything other than Visual Studio 2010 led me to that tweet. There was a brief conversation around whether that was true and that led me to start thinking about analogies for code and applications and the crap we produce on a daily basis. I recently read [this article](http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/) on building technical wealth instead of accumulating technical debt. I’m not sure that’s actually possible outside the concept that an application can make enough money to justify it’s existence. Still, one part of the article stands out and thats this item:
+
+> Stop thinking about your software as a project. Start thinking about it as a house you are going to live in for a (very very very very interminably) long time.
+
+I added that part in parentheses but still, that concept is at the heart of my original statement that all code is technical debt. Almost no one pays off their house in less than 30 years and frankly, most people buy a new one and up their mortgage and don’t pay off a house for 40 or 50 years. All that time they have a house payment not to mention yard work (done by the Mexicans Trump wants to eliminate) and dishes and maintenance and whatever else you do with a house. And because so few of us have 15 year mortgages, we pay 40-50% in interest but it’s invisible because it’s just a monthly payment.
+
+It’s no different with code. When an application first hits production, it’s like signing that mortgage. Except most of us treat our code like an acid driven hallucination powered by Home Depot. Instead of just making sure the plumbing is solid and cleaning the gutters and painting the shutters, we build a second wing, add on a third floor, tear out the garage and make it a disco parlor. And slowly (or quickly in some things I’ve seen) the second law of thermodynamics starts to kick in and soon we have chaos. Making a change means a week of testing. Deleting that third floor no one wants is impossible because maybe our fourth cousin by marriage is actually living up there and we don’t want them to be homeless (or worse, living on our floor). Just like it gets harder and harder to keep our bodies in shape the longer they are around especially if the only shape they’ve ever really been in is “round”, it gets harder and harder to get the code into shape.
+
+And so then the day comes when we get a new management structure who believes us when we say “it’s all a bunch of technical debt” and they say “rewrite it” ignoring the fact we wrote the first part of it and off we go to creating a whole new piece of technical debt that can’t possible even do what the original piece of crap did because it evolved over time with the business and so the new piece of crap is hated and eventually gets thrown away entirely.
+
+The moment you write a single line of code, it’s legacy code. I don’t even care if it’s covered by unit tests like Michael Feathers says it should be. It’s legacy. And some day the tests will get thrown away because they take too long to run and they have to wire up 14 dependencies in IOC because that’s how we roll and then you’ve got crap. Keeping a system running smoothly with a minimum of debt requires a Herculean effort that frankly is almost non-existent in the software world that I inhabit. Then you say microservices will fix everything but you don’t add any logging or monitoring and everyone quits to work at remote jobs and the CEO thinks it’s NHibernate that’s causing all the problems when really it’s just the fact that none of us can manage to maintain our damn cars very well much less a complex system written over years of changing business requirements. Maintenance is hard. It’s harder than writing a bunch of new crap in the latest hot technology. But no one pays hundreds of thousands of dollars for maintenance programmers because that’s what the people in India are for. Never mind that they can’t read the output of a build program to understand why something broke.
+
+It’s all technical debt. Maybe the people who work at Google would disagree but all the software I’ve seen in the business world is technical debt and we’re drowning in it the same way the world is drowning in regular debt and some day the bill will have to be paid. But maybe you and I will have moved on to cushy jobs that are greenfield or at least have “Consultant” in their titles.
+
+On a happier note (unlikely, this is a drunken blog rant), I listened to the [first half of this podcast](http://softwareengineeringdaily.com/2016/10/07/kafka-streams-with-jay-kreps/) with Jay Kreps on Kafka Streams and it got me to thinking about what streams are and how they are underutilized in most of software. Kreps’ definition of a stream (paraphrased) is that it’s the mashup of batch processing and future services. You write a service to process events in the future. You write a batch process to process events in the past. Streams are this lush, fertile middle ground where you can build near real time apps using a tool like Kafka.
+
+The canonical stream I think of is a data analytics stream like click tracking or user actions on a website. But I started thinking about streams as a replacement for jobs, jobs that are almost always written as batch processes but invariably should just be a stream. We have a job at work that’s happily run for years. Until recently when it seems to be the main culprit in tipping over the database occasionally (which is similar to but not the same as tipping over a cow, a pastime I am only tangentially familiar with as an Amarillo native). This job only processes 500 or so records at a time so how could it possible tip over a Mae West size database? Maybe the data is bad. Which it is. This job cancels certain customers for a variety of reasons and frankly is a batch process job only because it’s easy to do such a thing.
+
+But in reality, this is just a stream, a stream of events that cause my company to want to cancel a customer. If you turn this into a stream, not only do you have to worry less about tipping over the database (because the processing is spread out over time and space), but you can also begin to action on the events, possibly monitoring the performance or the number of cancelations or a whole host of other things you can do with a stream along with the main activity.
+
+There are streams everywhere but we treat them as chunks of past events because processing chunks of past events as batches is easier from a technological perspective or at least it has been up until now. But streams make more sense in almost all cases.
+
+Speaking of streams, the kid needs a diaper and it’s past 10 PM which means I’m turning into a pumpkin.

@@ -1,0 +1,27 @@
+---
+id: 1765
+title: 'On Fundraising'
+date: '2012-06-17T16:11:30-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1765'
+permalink: /2012/06/17/on-fundraising/
+categories:
+    - 'Societal Behavior'
+---
+
+Last weekend, I took part in [CrossFit for Hope](http://hope.crossfit.com/), a fundraising event by CrossFit to raise money for St. Jude Children’s Research Hospital. The goal across all participants was $1.7 million, one day’s operating costs for St. Jude. As with most things CrossFit, it revolved around a workout aptly named CrossFit for Hope (we’re nothing if not consistent). The fundraising efforts could be done on a flat donation rate or a per repetition basis. The workout was like Fight Gone Bad in format but with different, harder exercises. The event had been announced and planned for quite awhile but it took me until Thursday night to work it into my consciousness enough to consider participating.
+
+Once it did, the idea of raising money in 24 hours appealed to me. My initial brainstorming set a personal goal of $1000 which didn’t seem like that much when I considered my network of possible donees. I have 125 odd Facebook friends and 120 or so Twitter followers. I also have a reasonably extensive network of people I know in general. I thought if I could get a decent number of them to chip in $5-10, $1000 was completely doable. Luckily, I rethought that plan by the time I woke up Friday and scaled back to a goal of $500. I didn’t do this out of any concern as much as sometimes it’s nice to surpass lower goals than it is to fail at loftier ones.
+
+First thing Friday, I [signed up for the site](http://hope.crossfit.com/athlete?id=43914) and then sent out an email to everyone at work. Except that I didn’t have permission to do that. My initial dreaming involved people with lots of disposable income in the corner offices chipping in a lot and that dream came rapidly crashing down. So I sent a request out to two internal lists that I had access to. Immediately, I got a generous donation of $50 from a coworker. “Hey, 10% there already, this is going to be easy” I thought. And then things got a lot harder. I sent out notices to Facebook, Twitter and via email. I got a couple of immediate donations, also very generous, immediately but then things basically stopped.
+
+Throughout the day, I checked in on my profile to check my progress. Donations came in at a trickle but given the fact that I had asked upwards of 300 people, I got a little downhearted. Even late Friday, when I got a few retweets on Twitter to more and more people, the totals didn’t change. This is what makes fundraising so hard. My initial expectations were that lots and lots of people would chip in $5 when I asked them. Initially I focused on the money but the real issue is that if a cause isn’t meaningful to someone they aren’t going to donate. Plus in our attention deprived world, pleas for cash come across feeds all day long. There is both a recency effect and familiarity effect that have to work in tandem for fundraising success and even then, people may ignore the pleas because they all just start to run together.
+
+In the real world, outside my narcissistic viewpoint where everyone contributes if I ask them to, the effort of fundraising must be immense. It was hard enough for me. I followed up, cajoled, pleaded and bothered the hell out of people for the waking hours between 9 AM Friday and 9 AM Saturday. In the end, I’m absolutely thrilled with results. Fifteen people responded to my request with generous donations. I raised over $650 in 24 hours which is a phenomenal response. On a personal level, it looks like once all my donations have been attributed, I’ll be in the top 250 of all participants and I only worked for one day. That is truly exciting.
+
+From a more theoretical level, my experience illustrates the fundamental difficulty of grassroots fundraising. The Friday night retweets resulted in 800-1000 more people seeing my request. Of those people, exactly zero contributed. Once the familiarity effect fell outside one level of my network, the impact was essentially zero. People who don’t know you really aren’t that interested in your problems. Shocking news, I know but it’s highlighted by my nascent efforts at fundraising. The power from grassroots fundraising is in the number of people motivated to ask for money from their immediate circle. With a large base, that familiarity effect can be focused on a large number of immediate potential donors without having to worry about branching out to second and third levels.
+
+Several people have asked if I thought more time would have resulted in more money. I think I would have been able to find more people but I don’t think it would have changed the final total appreciably. Having that artificial deadline enabled people to act quickly without having to put it off and wait for the weekend or the next pay day. I would have had to work harder for less return with a longer time period. If I participate in something like this again, I think I’ll impose the artificial deadline again.
+
+Overall, I’m certainly thrilled with the end result and actually learned something in the process. It was fun to participate in such a large scale, grassroots fundraising effort. It’s incredibly fulfilling to actually feel like you’ve made a difference as a part of something important.

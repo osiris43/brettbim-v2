@@ -1,0 +1,44 @@
+---
+id: 2592
+title: '2019 Christmas Travel Log Days 2-6'
+date: '2020-01-01T19:10:14-06:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=2592'
+permalink: /2020/01/01/2019-christmas-travel-log-days-2-6/
+image: /wp-content/uploads/2019/12/eggnog-scaled-1-1200x1600.jpg
+categories:
+    - Travel
+---
+
+ We didn’t actually travel for four of the days but no point in being a stickler with details. Monday morning was spent waiting for a certain toddler’s bowels to catch up with the normal trajectory of her little electrified body. Travel seems to upset all kinds of schedules even in adults and is harder on her. The afternoon involved playing golf and getting nails done and shopping. Dad and I played golf at La Paloma since Tascosa is closed on Mondays. There was no room in the car for my clubs so I rented some there and shot 78 with them in my first 18 since June. Golf is kind of fun when you aren’t terrible at it. It was a beautiful 65 degree day in Amarillo in December so just being outside was the best part. The women went and got their nails done and did some shopping. We had dinner with an old friend of my dad and a good neighbor that night, pork chops and roasted veggies and good sides.
+
+Tuesday morning, I headed out for true last minute shopping. We were 70% prepared this year and even had presents wrapped before arriving. However, I needed a few stocking stuffers and a couple of gifts for mom and dad. Bed, Bath and Beyond is always an easy place to find things like that. It wasn’t particularly busy yet at 9 AM but those who were there all seemed to be in my predicament, that of the lazy or unprepared or over scheduled. Males outnumbered females 3-1 or so. There is a certain look in the face of men buying Christmas gifts on Christmas Eve morning. You make eye contact and there is an momentary acknowledgement of shared guilt and then a furtive glance back to the As Seen On TV Egg Boiler you’re seriously considering giving your significant other as a representation of your undying love. One briefly contemplates the apparent lack of meaning that led you to wait until 24 hours before the deadline. But Nietzsche was right, staring into the abyss only brings the monster closer home so you put down the egg boiler and buy something far more expensive as a replacement for the time you should have spent getting a meaningful gift. And you hope your significant other doesn’t read existential philosophy.
+
+Later in the morning, we went to Westgate Mall to get our annual picture with Santa taken. The place opened at 10 and we got there by 10:30 and didn’t have too many people in front of us. Have I mentioned that Wobbles has been training in a jihad camp recently to become a terrorist? It’s an after school part of her Montessori training I think. Maria would be so proud. The main base of the training involves strengthening her negotiating tactics. She’s already infinitely better at hostage negotiations than [Dwayne T. Robinson](https://en.wikipedia.org/wiki/Die_Hard#Cast) ever was. Today’s negotiation was that if she got her picture taken with Santa, she could then run around the mall instead of going home to take a nap. I should also mention that the child may be a vampire because she has a serious aversion to cameras and pictures these days. So after a little discussion, I had won a hard fought agreement on the terms. She of course then shot the hostage.
+
+Speaking of hostages, as an aside, you have to pick the package you want to pay for before any pictures are taken. Of course, you do. They specifically set up packages to funnel you to the BEST VALUE OF ALL TIME package which after brief negotiations with the terrorist’s mom, we bought. Coincidentally, it’s also the most expensive. We were then let in to the <s>cattle pen</s> holiday picture center and Wobbles got her first glimpse of the fat guy in the red suit. Imagine if you had negotiated some terms with a 45 pound catfish while the catfish was still in the water and then you picked said 45 pound catfish up and started carrying it like a sack of potatoes to the place where you were going to filet him. Yeah, good luck. [Luke 13:28](https://biblehub.com/luke/13-28.htm) was invoked and all agreements were thrown out the window. As we walked towards Santa, it became clear he had been on the job since December 1st, possibly without a bathroom break and definitely without a new union agreement in profit sharing. His thermos was straight Dewars and, it being the 24th after all, was counting down the hours until he could go home and kick his puppy. The wailing and gnashing of teeth of the slippery 45 pound catfish in my arms increased exponentially.
+
+Rapidly giving up on our traditional holiday plan A of a cute picture with Wobbles in the lap of an angry drunken Santa, we agreed to stand behind Saint Nick. The photographer and her assistant were squeezing the same squeaky Nemo doll they had successfully used on the much less experienced 18 month old in the session immediately before us to focus his attention on the camera. They didn’t stand a chance. Wobbles clung to my neck with the tenacity of a lamprey. I finally ripped her off and put her in what I call “The Marionette of Death” grip where it looks like she’s essentially a puppet who has come to life to destroy all our best laid plans. Which of course resulted in this.
+
+<figure class="wp-block-image size-large">![](/wp-content/uploads/2020/01/2019Santapic-731x1024.jpg)</figure>Thankfully, she didn’t manage to concuss Santa or leap from my arms and tear his eyes out. That would have been an awful lawsuit to settle. Speaking of settle, we then had to pay $49.99 for the privilege of having Wobbles nearly kill Santa Claus.
+
+A much needed nap for everyone was in order. After the nap, things were much calmer and involved baking, decorating a gingerbread house and making homemade eggnog. We had a good dinner of steaks and veggies, went a good Christmas Eve service at 8 PM and called an end to a very full day.
+
+<figure class="wp-block-image size-large">![gingerbread house](/wp-content/uploads/2019/12/finished_gingerbread-768x1024.jpg)</figure>Christmas Day was a celebration of wonderful family and an overt sacrifice to the God of American Consumerism. With a three and a half year old in the house who can speak somewhat broken English and understand that she gets presents on Christmas, we all over bought. It took 3 hours to unwrap everything. Once presents were complete, we prepped for visitors by making cookies and fudge, finalizing a gingerbread house and setting up tables for card games. Lots of cousins descended at 3 and we visited and played [crazy bridge](http://www.thepaytons.org/games/crazybridge.html) for 3 hours. It was a good day.
+
+Thursday was mostly relaxation day. We went to see the new baseball stadium in Amarillo. I couldn’t quite get in my head where it was downtown. After that, we went to the park to run off energy and learn new skills. That night, Gram and Granddad babysat while we went out with some good friends. Wobbles was still up playing hide and seek with Gram at 11 when we got home so a good time was had by all.
+
+<figure class="wp-block-image size-large">![freds corner grille](/wp-content/uploads/2019/12/freds-768x1024.jpg)</figure>Friday was packing up and driving home. We stopped in Childress and Vernon on the way home which broke up the trip nicely. It was terribly foggy almost all the way to Wichita Falls so a difficult drive. We ate at Fred’s Corner Grille in Vernon which is a neighborhood corner burger store that looks like it’s been there 50 years. The chili-cheese burgers and tots were good. In warmer months, I would have liked to try a shake. Worth taking 5 minutes to get off 287 and find it. Old men sitting around drinking coffee on a Friday afternoon, locals from down the street coming in for a burger.
+
+Overall, a good time. I’m thankful that 2019 was a good year. Hoping 2020 involves more outdoors time and I’m looking forward to what it might bring.
+
+***Expenses***
+
+- 12/26 $6.70 Toot ‘n Totum: 2 bottles of Ozarka, a perrier Citron, a bag of Cheezits and a 32oz coke.
+- 12/24 $51.94 Party Stop: 1 bottle of Bulleit bourbon for eggnog and a 12 pack of Community Brewery beer
+- 12/26 $32.75 for 14.895 gallons of gas at $2.199 a gallon
+- 12/27 $17.29 for 8.42.5 gallons of gas at $2.049 a gallon
+- 12/24 $7.48 Braum’s: A pound of butter, 1/2 gallon of 1% milk and 2 loaves of Buttermilk bread
+
+<figure class="wp-block-image size-large">![packed car](/wp-content/uploads/2019/12/carpacked-768x1024.jpg)</figure><figure class="wp-block-image size-large">![jewelry box](/wp-content/uploads/2019/12/harper_jewelrybox-768x1024.jpg)</figure>

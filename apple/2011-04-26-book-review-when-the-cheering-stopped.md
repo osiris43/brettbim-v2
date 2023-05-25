@@ -1,0 +1,28 @@
+---
+id: 1477
+title: 'Book Review &#8211; When The Cheering Stopped'
+date: '2011-04-26T22:22:57-05:00'
+author: Brett
+layout: single
+guid: 'http://www.anexperimentinscotch.com/?p=1477'
+permalink: /2011/04/26/book-review-when-the-cheering-stopped/
+categories:
+    - 'Book Review'
+tags:
+    - biography
+    - 'Books 2011'
+    - history
+    - Politics
+---
+
+I recently finished reading *[When The Cheering Stopped](http://www.amazon.com/Cheering-Stopped---years-Woodward-Wilson/dp/B0028QEA28/ref=sr_1_1?ie=UTF8&qid=1303874105&sr=8-1)*, an account of the last years of Woodrow Wilson. This is the hardcover edition, published in 1964. K found it when going through some of her late father’s things and gave it to me since she knew I like history books. Based on the inscription, it was a gift from a classmate. It’s a well-written, slightly dated book that is worth reading to see the inner details of what went on in the last years of the Wilson Presidency as he tried to bring America into the [League of Nations](http://en.wikipedia.org/wiki/League_of_Nations) both before and after his stroke on the campaign trail for the League.
+
+The title is a reference to how Wilson was received after The Great War in Europe where he was hailed as a savior, cheered on the streets of Paris and revered as a man who saved Europe from the catastrophe of war. The book is broken into three parts, a description of the President with insights into his views of the War and his reactions to sending America’s young men to battle in Europe. It describes the loss of his first wife Elly and we get a glimpse into the intensity of the man, his complete and total love for his wife and his near total inability to function after her death. He was a man of strong convictions, both in his politics and in his personal life and it comes through in this book.
+
+Eventually, his grief fades and he is introduced to Edith Bolling Galt, the future Mrs. Wilson. The story of their courtship is touching and personal, one made difficult by the fact that he is President. It’s interesting to see how it unfolds, always with a Secret Service man in close proximity. This chapter also details the beginnings of the fight for America’s entrance into the League, supported so strongly by the President and opposed equally as strongly by [Senator Henry Cabot Lodge](http://en.wikipedia.org/wiki/Henry_Cabot_Lodge). After it became apparent that he would never be able to strong-arm the Senate into ratifying entrance into the League, Wilson decided to take his argument directly to the American people in a whistle stop tour across the country. The details of the trip are striking in this day and age where so much distance is kept between our leaders and the commoners. Wilson was always close at hand, eventually having to be stopped from shaking the peoples’ hands because of his weakness. Throughout the trip and recounting, it is clear that his health is greatly declining. He suffers from terrible headaches and is obviously weakening as the trip continues. Eventually, in Pueblo, he suffered the stroke and the trip was cancelled. The touching moments when it becomes apparent to the First Lady how badly the President has been affected and the inner strength of the woman in the coming pages is remarkable.
+
+The second section of the book is about Mrs. Wilson and her total and complete devotion to her stricken husband. Some have called her the first female president of the United States because for the remainder of his Presidency, he was largely incapable of any real work and everything, every decision, every bill, every meeting was funneled through Edith Wilson. At the time, little was divulged of the President and the public was largely kept in the dark regarding the seriousness of the President’s stroke. The Vice President, Thomas Marshall, was a weak man, actively prevented from decision making and the thought at the time of him assuming the Presidency was regarded as impossible. In fact, he wanted to have nothing to do with it. The descriptions of these people and their inner thought processes is remarkable. The quality of research that went into the book to make all this evident is extraordinary. Mrs. Wilson kept an iron grip on the access to her husband and it’s a fascinating juxtaposition with today’s requirements for instant information about every single detail of the political life. That a sitting US President was confined to his bed for months and even then, could only work for a few moments of the day is a fact almost unthinkable to us now.
+
+The final section of the book covers the time after the Presidency when they lived on S Street in Washington. The book details the daily interactions in the family. It is an intimate account of the remaining years of Wilson as he slowly declined in health. The people of Washington were still exceptionally supportive of the former President and multiple instances occur of people writing him to express their gratitude or love. People founded clubs at their University in his honor. The fact that so many of the American people loved and supported the ex-President comes across clearly in the anecdotes and details of the book.
+
+The book is largely supportive of Wilson and certainly has to be read from that viewpoint. But it is well-researched and written and offers an striking view into both the end of a man’s life and the end of a national era. Never before or since has something like this at the highest level of American politics happened. It is a detailed look at the convictions of both the man and his wife, convictions that affected our history on a political level. But it’s also a human story, one of love and personal triumph and grief that is worth reading.
