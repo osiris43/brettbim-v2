@@ -10,6 +10,7 @@ spay_email:
     - ''
 categories:
     - Hunting
+    - Outdoors
 ---
 
 Finding myself with time to spare lately, I did my first standby hunt through the Texas Parks &amp; Wildlife system this past week at Old Sabine WMA near Lindale. Earlier this year, with much less time on my hands, I forgot to apply for any of the gun deer permits so standby became my only option. Luckily, I was the only one to show up Wednesday morning and got my choice of remaining spots in the hunt.

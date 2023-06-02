@@ -8,6 +8,7 @@ guid: 'http://www.anexperimentinscotch.com/?p=2485'
 permalink: /2018/11/21/tpwd-tyler-county-ranch-hunt-review/
 categories:
     - Hunting
+    - Outdoors
 ---
 
 For those not in the know (where the know is poor Texas hunters with no lease and no family land that’s been around for generations), Texas Parks &amp; Wildlife has a system that is essentially a lottery for hunts around the state in State Parks and WMAs and other state owned land. The locations get shut down for the duration of the hunt and typically the winners get assigned particular compartments to hunt in. I’ve been applying since around 2011 and have been lucky enough to win several including a very exclusive [Caprock Canyons hunt](http://www.anexperimentinscotch.com/2016/02/27/caprock-canyons-aoudad-hunt/).
