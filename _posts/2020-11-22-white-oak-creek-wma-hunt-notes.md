@@ -9,6 +9,7 @@ permalink: /2020/11/22/white-oak-creek-wma-hunt-notes/
 image: /wp-content/uploads/2020/11/clearing-1140x855.jpg
 categories:
     - Hunting
+    - Outdoors
 ---
 
 I drew for the second White Oak Creek WMA gun deer hunt this year which happened Nov 18-20th. We took the RV and stayed at Daingerfield State Park which is one of the prettier parks in East Texas. We were in site 37 which is one of the full hookups in the Mountain View area. We got set up Tuesday before the hunt. Wobbles had fun riding her bike in an area that was free from speeding cars.

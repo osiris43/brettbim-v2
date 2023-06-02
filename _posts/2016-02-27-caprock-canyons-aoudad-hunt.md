@@ -8,6 +8,7 @@ guid: 'http://www.anexperimentinscotch.com/?p=2160'
 permalink: /2016/02/27/caprock-canyons-aoudad-hunt/
 categories:
     - Hunting
+    - Outdoors
 ---
 
 ![DSC_0102](http://www.anexperimentinscotch.com/wp-content/uploads/2016/02/DSC_0102.jpg)
