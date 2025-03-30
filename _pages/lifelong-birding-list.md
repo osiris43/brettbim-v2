@@ -1,14 +1,14 @@
 ---
 id: 2383
 title: 'Lifelong Birding List'
-date: '2017-11-27T21:35:26-06:00'
+date: '2025-03-30T21:35:26-06:00'
 author: Brett
 layout: single 
 permalink: /lifelong-bird-list/
 guid: 'http://www.anexperimentinscotch.com/?page_id=2383'
 ---
 
-Inspired by the 75th anniversary of Texas Parks and Wildlife magazine. This is a list of birds I’ve seen in my life. Current count: 52
+Inspired by the 75th anniversary of Texas Parks and Wildlife magazine. This is a list of birds I’ve seen in my life. Current count: 57
 
 - Northern cardinal
 - Ring necked duck
