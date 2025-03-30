@@ -1,0 +1,532 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>On Zeno’s Migration and Tech Leadership - Brett Bim</title>
+<meta name="description" content="![](https://www.anexperimentwithoutscotch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-03-at-5.46.04-AM.png)Zeno’s Migration Jean Yang, founder of Akita Software, has been talking on Twitter lately about the chasm between the technical “guidance” from large tech firms like Netflix and Amazon and what your average, run-of-the-mill tech firm does in the wild. I’ve started calling this latter group, a much larger cohort than the former, “small tech” loosely defined as 10-50ish engineering types. This idea of Zeno’s Migration, a riff on Zeno’s Paradoxes for those who slept through their classics courses, is full of promise like the Dichotomy paradox that says because a journey is a set infinite steps, it can’t even begin much less end which is especially apropos of many small tech companies cloud migration plan.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Brett Bim">
+<meta property="og:title" content="On Zeno’s Migration and Tech Leadership">
+<meta property="og:url" content="http://brettbim.com/2021/11/15/on-zenos-migration-and-tech-leadership/">
+
+
+  <meta property="og:description" content="![](https://www.anexperimentwithoutscotch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-03-at-5.46.04-AM.png)Zeno’s Migration Jean Yang, founder of Akita Software, has been talking on Twitter lately about the chasm between the technical “guidance” from large tech firms like Netflix and Amazon and what your average, run-of-the-mill tech firm does in the wild. I’ve started calling this latter group, a much larger cohort than the former, “small tech” loosely defined as 10-50ish engineering types. This idea of Zeno’s Migration, a riff on Zeno’s Paradoxes for those who slept through their classics courses, is full of promise like the Dichotomy paradox that says because a journey is a set infinite steps, it can’t even begin much less end which is especially apropos of many small tech companies cloud migration plan.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2021-11-15T13:19:23+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://brettbim.com/2021/11/15/on-zenos-migration-and-tech-leadership/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://brettbim.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Brett Bim Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Brett Bim
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lifelong-bird-list/">Lifelong Birding List</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="On Zeno’s Migration and Tech Leadership">
+    <meta itemprop="description" content="![](https://www.anexperimentwithoutscotch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-03-at-5.46.04-AM.png)Zeno’s MigrationJean Yang, founder of Akita Software, has been talking on Twitter lately about the chasm between the technical “guidance” from large tech firms like Netflix and Amazon and what your average, run-of-the-mill tech firm does in the wild. I’ve started calling this latter group, a much larger cohort than the former, “small tech” loosely defined as 10-50ish engineering types. This idea of Zeno’s Migration, a riff on Zeno’s Paradoxes for those who slept through their classics courses, is full of promise like the Dichotomy paradox that says because a journey is a set infinite steps, it can’t even begin much less end which is especially apropos of many small tech companies cloud migration plan.">
+    <meta itemprop="datePublished" content="2021-11-15T13:19:23+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">On Zeno’s Migration and Tech Leadership
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <figure class="wp-block-image size-full">![](https://www.anexperimentwithoutscotch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-03-at-5.46.04-AM.png)<figcaption>Zeno’s Migration</figcaption></figure>
+<p>Jean Yang, founder of Akita Software, has been talking on Twitter lately about the chasm between the technical “guidance” from large tech firms like Netflix and Amazon and what your average, run-of-the-mill tech firm does in the wild. I’ve started calling this latter group, a much larger cohort than the former, “small tech” loosely defined as 10-50ish engineering types. This idea of Zeno’s Migration, a riff on <a href="https://en.wikipedia.org/wiki/Zeno%27s_paradoxes">Zeno’s Paradoxes</a> for those who slept through their classics courses, is full of promise like the Dichotomy paradox that says because a journey is a set infinite steps, it can’t even begin much less end which is especially apropos of many small tech companies cloud migration plan.</p>
+
+<p>The idea here is that in order to complete a migration, you have to travel halfway an infinite number of times. The constant refrain from technical leadership is that next quarter we’re going to be “X” farther along the journey on the migration de jour. This migration often involves shiny, jangly technology choices like “rewrite the front end in React” or “migrate everything to the cloud”. Unfortunately, this constant refrain ignores hard strategic realities on the ground where a small tech firm has serious limitations in what it can accomplish. In an ideal world, free of harsh realities, these constraints would be manageable. Alas, there are no ideal worlds.</p>
+
+<p>I think the problem arises because the pervasive definitional concept in our industry is “The Project”. When everything is a project, it sets up incentive conflicts in priority determination. In an organization that is highly typical in the industry where “the business” and “technology” are considered different entities, the migration is always a project defined and defended by “technology” which puts it at odds with other projects defined by “the business”. Even at organizations that nominally follow a more product based organizational structure, the key concept is projects involving kickoffs and planning and story writing and infinite other steps. As with most systems, the focus at this level is too granular and misses the forest for the trees.</p>
+
+<p>A more holistic solution is to step back at least one level in the system to “The Team” and assess the situation there. The product team becomes the atomic unit of measure, not the project. This requires a shift in thinking and language but when done correctly, Zeno’s Migration melts away in the same way Zeno’s Paradoxes do because we shift from a discrete function with a start and an end to an infinite series (the outcomes and measurements of the team on a continual improvement cycle ala DevOps philosophy). In this model, a cloud migration just becomes part of the continual improvement process.</p>
+
+<p>This still raises the question of when to do such things. With limited resources, even a well organized product team needs guardrails on what to focus on. This is where organizational technical leadership can provide value with written visions and <a href="https://lethain.com/good-engineering-strategy-is-boring/">strategies</a>. In tandem with these strategies, it’s critical to have metrics measured in outcomes that are regularly reviewed and publicized to the broader organization. These strategies should be cyclical in nature, e.g. they do not have an end but define measurements like “we will migrate X services per quarter or half”. Without these strategies defined and monitored for outcomes, even well organized product teams in the typical technology business will fail to do this migration work because it’s too easy for it to fall on the floor.</p>
+
+<p>A corollary to Zeno’s Migration that I’ve seen and heard a lot is the lift and shift strategy of cloud migration. An organization, hearing that “the cloud is the future” or whatever, moves (or more often pays some consulting firm to move) their entire operation to the cloud with the idea and promise that this allows the architecture to then move to a more cloud native form over time without having to migrate where the services live.</p>
+
+<p>Of course, this achieves none of the benefits of a cloud native architecture and moves all of the existing maladaptive processes along with it. But returning to “The Project” as atomic unit, this is easy to reason about, define and measure. I think there is also often an unstated concept here that technology leadership maintains related to cost and incentives. Over time, as subsidies and cost breaks expire, running an org in the cloud just like you did on prem is likely to be much more expensive. The idea is that at that point, it would be easy to explain to the business how a rewrite or rearchitecture will save money which is always the easiest metric to measure.</p>
+
+<p>There are two things going on here, one part sociological and one part technical (which is convenient since these are all sociotechnical systems). The sociological part involves humans tendency to look at achievement as An End. When we look at greatness, we think of a finished thing and not as something that happens to just be quite far along the continuum of that particular thing. The second issue is that in order to deal with the continuum of technical growth and improvement, we need to have a way to move successfully from vision to tactics which is what Richard Rumelt calls <a href="https://www.goodreads.com/author/show/1709397.Richard_P_Rumelt">Strategy</a>. We must define the problem, the constraint and actions required to solve the problem. This helps identify tradeoffs and things we cannot do in order to achieve the vision. This is where good technical leadership shines brightest and is often missing from existing tech growth plans.</p>
+
+<p>In the end, I think technical growth is contextual. A team of 30 engineers can’t read a paper from Netflix and apply it to their situation. Leadership must analyze the existing context for opportunity and then define strategies for that opportunity that define the problem to be solved and the actions that will be taken (or not taken which is a critical part of strategy) to succeed. Then the strategy must be publicized and monitored for progress along its continuum. As growth occurs, the strategy and context should be revisited for modifications as necessary. This is all hard management work that in my experience is difficult to develop and nurture. There are systems involved here with first order incentives that are easier to both talk about and create that work against the harder second order incentives to dig into the history and context of a given situation and create solutions specifically for it. Until technical leadership as an industry is better at thinking about these systems, we’ll continue to read shiny new ideas from large tech organizations and try to pound that round object into the square hole we are dealing with.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-11-15T13:19:23+00:00">November 15, 2021</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=On+Zeno%26%238217%3Bs+Migration+and+Tech+Leadership%20http%3A%2F%2Fbrettbim.com%2F2021%2F11%2F15%2Fon-zenos-migration-and-tech-leadership%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbrettbim.com%2F2021%2F11%2F15%2Fon-zenos-migration-and-tech-leadership%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbrettbim.com%2F2021%2F11%2F15%2Fon-zenos-migration-and-tech-leadership%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2021/10/30/on-happiness-a-blog-post-series-maybe/" class="pagination--pager" title="On Happiness – A Blog Post Series, Maybe
+">Previous</a>
+    
+    
+      <a href="/2021/11/18/on-happiness-plato-edition/" class="pagination--pager" title="On Happiness – Plato Edition
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/hunting/outdoors/2024/01/20/gus-engling-deer-hunt.html" rel="permalink">Gus Engling Deer Hunt 2023
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">My entries into the Texas Parks and Wildlife draw hunt season won me four hunts in 2023-2024.  The first of these was the last hunt of the season at Gus Enge...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/09/11/aws-route53-outbound-endpoint.html" rel="permalink">Building AWS Route53 Resolver Outbound Endpoints with Terraform
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">At work, we are moving out of an legacy data center to AWS.  Our initial stab at that has been to stand up a staging environment that clients can use to veri...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/06/13/wordpress-to-jekyll.html" rel="permalink">Migrating From Wordpress to Jekyll
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpres...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/travel/2023/05/28/lakeview-arkansas-rivercliff.html" rel="permalink">Thoughts from Rivercliff, Lakeview AR
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This was supposed to be the annual fishing trip with Dad.  Every year, for the past 20 or so, we’ve taken a trip to Arkansas to trout fish and play golf, oft...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Brett Bim. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

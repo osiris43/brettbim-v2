@@ -1,0 +1,543 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Brett’s Drunken Tech Ramblings - Brett Bim</title>
+<meta name="description" content="Steve Yegge once wrote an internal blog at Amazon that later became a public blog not at Amazon called Stevey’s Drunken Blog Rants™. Anything I do here is a poor approximation of those masterpieces but we must all have mentors to look up to and convince us we are still terrible. So this is a Friday night, three glasses of wine and possibly one more on the way rambling about what I’ve been thinking about in tech today or this week or possibly it will devolve into kitten videos. Who knows.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Brett Bim">
+<meta property="og:title" content="Brett’s Drunken Tech Ramblings">
+<meta property="og:url" content="http://brettbim.com/2016/10/07/bretts-drunken-tech-ramblings/">
+
+
+  <meta property="og:description" content="Steve Yegge once wrote an internal blog at Amazon that later became a public blog not at Amazon called Stevey’s Drunken Blog Rants™. Anything I do here is a poor approximation of those masterpieces but we must all have mentors to look up to and convince us we are still terrible. So this is a Friday night, three glasses of wine and possibly one more on the way rambling about what I’ve been thinking about in tech today or this week or possibly it will devolve into kitten videos. Who knows.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2016-10-08T02:06:07+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://brettbim.com/2016/10/07/bretts-drunken-tech-ramblings/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://brettbim.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Brett Bim Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Brett Bim
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lifelong-bird-list/">Lifelong Birding List</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Brett’s Drunken Tech Ramblings">
+    <meta itemprop="description" content="Steve Yegge once wrote an internal blog at Amazon that later became a public blog not at Amazon called Stevey’s Drunken Blog Rants™. Anything I do here is a poor approximation of those masterpieces but we must all have mentors to look up to and convince us we are still terrible. So this is a Friday night, three glasses of wine and possibly one more on the way rambling about what I’ve been thinking about in tech today or this week or possibly it will devolve into kitten videos. Who knows.">
+    <meta itemprop="datePublished" content="2016-10-08T02:06:07+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Brett’s Drunken Tech Ramblings
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Steve Yegge once wrote an internal blog at Amazon that later became a public blog not at Amazon called <a href="https://sites.google.com/site/steveyegge2/blog-rants">Stevey’s Drunken Blog Rants™</a>. Anything I do here is a poor approximation of those masterpieces but we must all have mentors to look up to and convince us we are still terrible. So this is a Friday night, three glasses of wine and possibly one more on the way rambling about what I’ve been thinking about in tech today or this week or possibly it will devolve into kitten videos. Who knows.</p>
+
+<p><a href="https://twitter.com/BrettBim/status/784100162373234688"><img src="http://www.anexperimentinscotch.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-07-at-9.11.43-PM-1024x634.png" alt="screen-shot-2016-10-07-at-9-11-43-pm" /></a></p>
+
+<p>Lots of thinking lately on old code, rewrites, fancy new technologies and a monstrous Windows Service that can’t be opened in anything other than Visual Studio 2010 led me to that tweet. There was a brief conversation around whether that was true and that led me to start thinking about analogies for code and applications and the crap we produce on a daily basis. I recently read <a href="http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/">this article</a> on building technical wealth instead of accumulating technical debt. I’m not sure that’s actually possible outside the concept that an application can make enough money to justify it’s existence. Still, one part of the article stands out and thats this item:</p>
+
+<blockquote>
+  <p>Stop thinking about your software as a project. Start thinking about it as a house you are going to live in for a (very very very very interminably) long time.</p>
+</blockquote>
+
+<p>I added that part in parentheses but still, that concept is at the heart of my original statement that all code is technical debt. Almost no one pays off their house in less than 30 years and frankly, most people buy a new one and up their mortgage and don’t pay off a house for 40 or 50 years. All that time they have a house payment not to mention yard work (done by the Mexicans Trump wants to eliminate) and dishes and maintenance and whatever else you do with a house. And because so few of us have 15 year mortgages, we pay 40-50% in interest but it’s invisible because it’s just a monthly payment.</p>
+
+<p>It’s no different with code. When an application first hits production, it’s like signing that mortgage. Except most of us treat our code like an acid driven hallucination powered by Home Depot. Instead of just making sure the plumbing is solid and cleaning the gutters and painting the shutters, we build a second wing, add on a third floor, tear out the garage and make it a disco parlor. And slowly (or quickly in some things I’ve seen) the second law of thermodynamics starts to kick in and soon we have chaos. Making a change means a week of testing. Deleting that third floor no one wants is impossible because maybe our fourth cousin by marriage is actually living up there and we don’t want them to be homeless (or worse, living on our floor). Just like it gets harder and harder to keep our bodies in shape the longer they are around especially if the only shape they’ve ever really been in is “round”, it gets harder and harder to get the code into shape.</p>
+
+<p>And so then the day comes when we get a new management structure who believes us when we say “it’s all a bunch of technical debt” and they say “rewrite it” ignoring the fact we wrote the first part of it and off we go to creating a whole new piece of technical debt that can’t possible even do what the original piece of crap did because it evolved over time with the business and so the new piece of crap is hated and eventually gets thrown away entirely.</p>
+
+<p>The moment you write a single line of code, it’s legacy code. I don’t even care if it’s covered by unit tests like Michael Feathers says it should be. It’s legacy. And some day the tests will get thrown away because they take too long to run and they have to wire up 14 dependencies in IOC because that’s how we roll and then you’ve got crap. Keeping a system running smoothly with a minimum of debt requires a Herculean effort that frankly is almost non-existent in the software world that I inhabit. Then you say microservices will fix everything but you don’t add any logging or monitoring and everyone quits to work at remote jobs and the CEO thinks it’s NHibernate that’s causing all the problems when really it’s just the fact that none of us can manage to maintain our damn cars very well much less a complex system written over years of changing business requirements. Maintenance is hard. It’s harder than writing a bunch of new crap in the latest hot technology. But no one pays hundreds of thousands of dollars for maintenance programmers because that’s what the people in India are for. Never mind that they can’t read the output of a build program to understand why something broke.</p>
+
+<p>It’s all technical debt. Maybe the people who work at Google would disagree but all the software I’ve seen in the business world is technical debt and we’re drowning in it the same way the world is drowning in regular debt and some day the bill will have to be paid. But maybe you and I will have moved on to cushy jobs that are greenfield or at least have “Consultant” in their titles.</p>
+
+<p>On a happier note (unlikely, this is a drunken blog rant), I listened to the <a href="http://softwareengineeringdaily.com/2016/10/07/kafka-streams-with-jay-kreps/">first half of this podcast</a> with Jay Kreps on Kafka Streams and it got me to thinking about what streams are and how they are underutilized in most of software. Kreps’ definition of a stream (paraphrased) is that it’s the mashup of batch processing and future services. You write a service to process events in the future. You write a batch process to process events in the past. Streams are this lush, fertile middle ground where you can build near real time apps using a tool like Kafka.</p>
+
+<p>The canonical stream I think of is a data analytics stream like click tracking or user actions on a website. But I started thinking about streams as a replacement for jobs, jobs that are almost always written as batch processes but invariably should just be a stream. We have a job at work that’s happily run for years. Until recently when it seems to be the main culprit in tipping over the database occasionally (which is similar to but not the same as tipping over a cow, a pastime I am only tangentially familiar with as an Amarillo native). This job only processes 500 or so records at a time so how could it possible tip over a Mae West size database? Maybe the data is bad. Which it is. This job cancels certain customers for a variety of reasons and frankly is a batch process job only because it’s easy to do such a thing.</p>
+
+<p>But in reality, this is just a stream, a stream of events that cause my company to want to cancel a customer. If you turn this into a stream, not only do you have to worry less about tipping over the database (because the processing is spread out over time and space), but you can also begin to action on the events, possibly monitoring the performance or the number of cancelations or a whole host of other things you can do with a stream along with the main activity.</p>
+
+<p>There are streams everywhere but we treat them as chunks of past events because processing chunks of past events as batches is easier from a technological perspective or at least it has been up until now. But streams make more sense in almost all cases.</p>
+
+<p>Speaking of streams, the kid needs a diaper and it’s past 10 PM which means I’m turning into a pumpkin.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2016-10-08T02:06:07+00:00">October 8, 2016</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Brett%26%238217%3Bs+Drunken+Tech+Ramblings%20http%3A%2F%2Fbrettbim.com%2F2016%2F10%2F07%2Fbretts-drunken-tech-ramblings%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbrettbim.com%2F2016%2F10%2F07%2Fbretts-drunken-tech-ramblings%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbrettbim.com%2F2016%2F10%2F07%2Fbretts-drunken-tech-ramblings%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2016/06/11/weekend-activities/" class="pagination--pager" title="Weekend Activities
+">Previous</a>
+    
+    
+      <a href="/2017/01/02/navel-gazing-2016-edition/" class="pagination--pager" title="Navel Gazing 2016 Edition
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/hunting/outdoors/2024/01/20/gus-engling-deer-hunt.html" rel="permalink">Gus Engling Deer Hunt 2023
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">My entries into the Texas Parks and Wildlife draw hunt season won me four hunts in 2023-2024.  The first of these was the last hunt of the season at Gus Enge...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/09/11/aws-route53-outbound-endpoint.html" rel="permalink">Building AWS Route53 Resolver Outbound Endpoints with Terraform
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">At work, we are moving out of an legacy data center to AWS.  Our initial stab at that has been to stand up a staging environment that clients can use to veri...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/06/13/wordpress-to-jekyll.html" rel="permalink">Migrating From Wordpress to Jekyll
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpres...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/travel/2023/05/28/lakeview-arkansas-rivercliff.html" rel="permalink">Thoughts from Rivercliff, Lakeview AR
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This was supposed to be the annual fishing trip with Dad.  Every year, for the past 20 or so, we’ve taken a trip to Arkansas to trout fish and play golf, oft...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Brett Bim. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,543 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Word Wrap Kata in Python - Brett Bim</title>
+<meta name="description" content="Last month at Dallas Hack Club, we did the Word Wrap Kata from Uncle Bob Martin’s “Clean Coder”. I got there a touch late and rapidly figured out that we were doing it in Ruby. Now, my Ruby skills are right up there with my Mandarin Chinese skills which is to say, I can’t even order a scotch or find the restroom so I quickly figured out that if I followed along, I’d be sitting in a puddle of pee wishing I was drunk. So I made the executive decision to ignore most everyone else and do it in parallel with the group but in Python since I can at least code like I’m drunk in Python.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Brett Bim">
+<meta property="og:title" content="Word Wrap Kata in Python">
+<meta property="og:url" content="http://brettbim.com/2011/01/06/word-wrap-kata-in-python/">
+
+
+  <meta property="og:description" content="Last month at Dallas Hack Club, we did the Word Wrap Kata from Uncle Bob Martin’s “Clean Coder”. I got there a touch late and rapidly figured out that we were doing it in Ruby. Now, my Ruby skills are right up there with my Mandarin Chinese skills which is to say, I can’t even order a scotch or find the restroom so I quickly figured out that if I followed along, I’d be sitting in a puddle of pee wishing I was drunk. So I made the executive decision to ignore most everyone else and do it in parallel with the group but in Python since I can at least code like I’m drunk in Python.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2011-01-07T01:16:12+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://brettbim.com/2011/01/06/word-wrap-kata-in-python/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://brettbim.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Brett Bim Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Brett Bim
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lifelong-bird-list/">Lifelong Birding List</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Word Wrap Kata in Python">
+    <meta itemprop="description" content="Last month at Dallas Hack Club, we did the Word Wrap Kata from Uncle Bob Martin’s “Clean Coder”. I got there a touch late and rapidly figured out that we were doing it in Ruby. Now, my Ruby skills are right up there with my Mandarin Chinese skills which is to say, I can’t even order a scotch or find the restroom so I quickly figured out that if I followed along, I’d be sitting in a puddle of pee wishing I was drunk. So I made the executive decision to ignore most everyone else and do it in parallel with the group but in Python since I can at least code like I’m drunk in Python.">
+    <meta itemprop="datePublished" content="2011-01-07T01:16:12+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Word Wrap Kata in Python
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Last month at <a href="http://dallashackclub.com/">Dallas Hack Club</a>, we did the <a href="http://thecleancoder.blogspot.com/2010/10/craftsman-62-dark-path.html">Word Wrap Kata</a> from Uncle Bob Martin’s “Clean Coder”. I got there a touch late and rapidly figured out that we were doing it in Ruby. Now, my Ruby skills are right up there with my Mandarin Chinese skills which is to say, I can’t even order a scotch or find the restroom so I quickly figured out that if I followed along, I’d be sitting in a puddle of pee wishing I was drunk. So I made the executive decision to ignore most everyone else and do it in parallel with the group but in Python since I can at least code like I’m drunk in Python.</p>
+
+<p>My experience was surprisingly similar to the post linked above, e.g. I went down the hardest path trying to solve the wrong test. I’ve since gone back and deleted the code but the pseudocode went something like this:<br />
+[sourcecode language=”python”]Break text into a list using a list comprehension based on the length of the column<br />
+Start looking for words with spaces<br />
+Try to repiece things together based on the column length and the last space<br />
+Cry<br />
+[/sourcecode]</p>
+
+<p>Clearly, this wasn’t going to work. About that time, we ran out of time and went to the Flying Saucer to drink beer and pretend like we weren’t geeks. But I decided to finish the kata this week during a slow period at work. Since I didn’t have Jerry there to talk me through how dumb I was, I started reading the post up until the point where it describes writing the wrong test and spending too much time trying to solve it. So I backed up, deleted everything and started down the easier path of solving all the non-space related issues first. Once I did that, and once I figured out that recursion was going to be a big help, the project really got easier.</p>
+
+<p>The final solution is below:<br />
+[sourcecode language=”python”]<br />
+def wrap(text, num):</p>
+
+<p>if len(text) &lt;= num:<br />
+ return text<br />
+ elif text[num-1] == ‘ ‘:<br />
+ return text[:num].rstrip() + ‘rn’ + wrap(text[num:], num)<br />
+ elif text[:num].find(‘ ‘) &gt; -1:<br />
+ rightSpaceIdx = text.rfind(‘ ‘)<br />
+ return text[:rightSpaceIdx] + ‘rn’ + wrap(text[rightSpaceIdx:].lstrip(‘ ‘), num)<br />
+ else:<br />
+ return text[:num] + ‘rn’ + wrap(text[num:].lstrip(), num)<br />
+[/sourcecode]</p>
+
+<p>It’s fascinating how quickly the algorithm starts to come together when you write the correct test. The problem is, I’m terrible at all this so it’s going to take some time getting enough experience to correctly select what test to write next. I was writing a ton of code trying to solve a problem that was too hard and the solution I eventually would have come up with would have been effective but brittle.</p>
+
+<p>The more I do TDD/BDD, the more I realize that it is *THE* way to develop software, especially if you’re working in a dynamic language. I’m currently working through the tutorials at <a href="http://rubytutorials.org">Ruby Tutorials</a> and it’s great to see that TDD is a fundamental part of the process. As I learned Python and Pylons, it was up to me to figure out best practices it seemed like and that’s workable but frustrating in the long run. I’m planning on doing more katas in an effort to improve my craft.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2011-01-07T01:16:12+00:00">January 7, 2011</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Word+Wrap+Kata+in+Python%20http%3A%2F%2Fbrettbim.com%2F2011%2F01%2F06%2Fword-wrap-kata-in-python%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbrettbim.com%2F2011%2F01%2F06%2Fword-wrap-kata-in-python%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbrettbim.com%2F2011%2F01%2F06%2Fword-wrap-kata-in-python%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/programming/2010/12/30/route-gotchas-in-pylons.html" class="pagination--pager" title="Route Gotchas In Pylons
+">Previous</a>
+    
+    
+      <a href="/2011/01/10/learning-rails-and-a-little-ruby/" class="pagination--pager" title="Learning Rails (and a little Ruby)
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/hunting/outdoors/2024/01/20/gus-engling-deer-hunt.html" rel="permalink">Gus Engling Deer Hunt 2023
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">My entries into the Texas Parks and Wildlife draw hunt season won me four hunts in 2023-2024.  The first of these was the last hunt of the season at Gus Enge...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/09/11/aws-route53-outbound-endpoint.html" rel="permalink">Building AWS Route53 Resolver Outbound Endpoints with Terraform
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">At work, we are moving out of an legacy data center to AWS.  Our initial stab at that has been to stand up a staging environment that clients can use to veri...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/06/13/wordpress-to-jekyll.html" rel="permalink">Migrating From Wordpress to Jekyll
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpres...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/travel/2023/05/28/lakeview-arkansas-rivercliff.html" rel="permalink">Thoughts from Rivercliff, Lakeview AR
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This was supposed to be the annual fishing trip with Dad.  Every year, for the past 20 or so, we’ve taken a trip to Arkansas to trout fish and play golf, oft...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Brett Bim. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

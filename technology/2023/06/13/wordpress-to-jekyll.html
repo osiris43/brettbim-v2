@@ -1,0 +1,529 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Migrating From Wordpress to Jekyll - Brett Bim</title>
+<meta name="description" content="I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpress much to the chargrin of my more technically hip friends.  But the platform is easy to setup, easy to find hosting for and in recent years, easy to self-host on AWS with Lightsail.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Brett Bim">
+<meta property="og:title" content="Migrating From Wordpress to Jekyll">
+<meta property="og:url" content="http://brettbim.com/technology/2023/06/13/wordpress-to-jekyll.html">
+
+
+  <meta property="og:description" content="I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpress much to the chargrin of my more technically hip friends.  But the platform is easy to setup, easy to find hosting for and in recent years, easy to self-host on AWS with Lightsail.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2023-06-13T00:00:00+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://brettbim.com/technology/2023/06/13/wordpress-to-jekyll.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://brettbim.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Brett Bim Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Brett Bim
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lifelong-bird-list/">Lifelong Birding List</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Migrating From Wordpress to Jekyll">
+    <meta itemprop="description" content="I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpress much to the chargrin of my more technically hip friends.  But the platform is easy to setup, easy to find hosting for and in recent years, easy to self-host on AWS with Lightsail.">
+    <meta itemprop="datePublished" content="2023-06-13T00:00:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Migrating From Wordpress to Jekyll
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>I have been a Wordpress user for about as long as I have been writing online.  I have blog posts going back at least to 2005.  I have always enjoyed Wordpress much to the chargrin of my more technically hip friends.  But the platform is easy to setup, easy to find hosting for and in recent years, easy to self-host on AWS with Lightsail.</p>
+
+<p>The plugin architecture of Wordpress means there is always a plugin for something you need to do, whether it’s email newsletter subscriptions or large exports or SEO.  If you use a hosting Platform like Wordpress.com or other popular site, the setup and maintenance over time is pretty straightforward.  You pay a little more for that but it’s worth it for non-technical people.  In recent years, I’ve self-hosted both on Azure and AWS.  Neither of these was terribly difficult to get goin if you have experience in the web and came with a cheaper monthly price tag.</p>
+
+<p>Azure was free because I had MSDN credits through a previous company.  AWS cost about $8 a month on Lightsail.  The downsides of this cost savings was ease of updates.  The updating of Wordpress itself and the plugins remained the same, just a step you could do through the interface.  However, updating the underlying infrastructure like PHP was much less user-friendly.  In my case, using a Bitnami provided image on Lightsail meant I had to update the entire setup.  As I’ve gotten older and taken on other hobbies (and responsibilities like entertaining a 6 year old), updating Lightsail images took a very serious back seat on the TODO list.</p>
+
+<p>So recently, during a bout of activity reduction, I decided to explore other hosting options.  <a href="https://jekyllrb.com/docs/">Jekyll</a> hosted on <a href="https://pages.github.com/">Github Pages</a> quickly rose to the top because I’m familiar with Ruby should I ever need to do anything beyond writing Markdown and for a site like mine is completely free.  I don’t have any dynamic content, just 18 years of blathering on about things that catch my fancy.</p>
+
+<p>Setting up Jekyll was easy for anyone comfortable with Github.  I had a basic blog in about an hour.  I then found a theme I liked, <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">Minimal Mistakes</a> which has things like post archives and a nice splash screen for the home page.  Implementing it took about another day, with off and on work.  The final step was to try and get an import of my Wordpress content without too much difficulty.</p>
+
+<p>Luckily, because the Wordpress community is pretty awesome, there is a <a href="https://github.com/benbalter/wordpress-to-jekyll-exporter">good plugin</a> for exporting Wordpress content out to Markdown files in the structure expected by Jekyll.  In theory you can install the plugin and then just do the export from the UI.  However, I ran into problems with this approach where the export would never succeed.  I anticipate it’s because I was on an older version of both PHP and Wordpress than maybe it supported.  There was also a mention in the issues list about a large site timing out.  Luckily, that same issue mentioned the CLI.  The developer of the plugin had actually built a CLI for the tool which is amazing.</p>
+
+<p>I connected to my Lightsail instance and found the location where the plugin had been installed by Wordpress.  Sure enough, there was the CLI which you can execute directly on the command line.  This resulted in a zip file of all content going back 18 years from my site.  I copied that off the instance, unpacked it locally and began bringing over essays.  At first, I just did one at a time to try and figure out the pattern necessary for updating the Jekyll metadata.  That quickly revealed the necessary things that had to change and I did a quick Find and Replace on the entire archive, copied them into the right spot, published it to Github and the site was live.</p>
+
+<p>I anticipate that any essays from Wordpress that had links or images are probably broken but for now, just having the content was what I wanted.  This enabled me to delete the Lightsail instance, saving ~$8 a month.  Overall the process was quite easy and I’m looking forward to sporadically posting with Jekyll without having to constantly worry about the maintenance and upkeep of Wordpress and PHP.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2023-06-13T00:00:00+00:00">June 13, 2023</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Migrating+From+Wordpress+to+Jekyll%20http%3A%2F%2Fbrettbim.com%2Ftechnology%2F2023%2F06%2F13%2Fwordpress-to-jekyll.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fbrettbim.com%2Ftechnology%2F2023%2F06%2F13%2Fwordpress-to-jekyll.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbrettbim.com%2Ftechnology%2F2023%2F06%2F13%2Fwordpress-to-jekyll.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/travel/2023/05/28/lakeview-arkansas-rivercliff.html" class="pagination--pager" title="Thoughts from Rivercliff, Lakeview AR
+">Previous</a>
+    
+    
+      <a href="/technology/2023/09/11/aws-route53-outbound-endpoint.html" class="pagination--pager" title="Building AWS Route53 Resolver Outbound Endpoints with Terraform
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/hunting/outdoors/2024/01/20/gus-engling-deer-hunt.html" rel="permalink">Gus Engling Deer Hunt 2023
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          5 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">My entries into the Texas Parks and Wildlife draw hunt season won me four hunts in 2023-2024.  The first of these was the last hunt of the season at Gus Enge...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2023/09/11/aws-route53-outbound-endpoint.html" rel="permalink">Building AWS Route53 Resolver Outbound Endpoints with Terraform
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">At work, we are moving out of an legacy data center to AWS.  Our initial stab at that has been to stand up a staging environment that clients can use to veri...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/travel/2023/05/28/lakeview-arkansas-rivercliff.html" rel="permalink">Thoughts from Rivercliff, Lakeview AR
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This was supposed to be the annual fishing trip with Dad.  Every year, for the past 20 or so, we’ve taken a trip to Arkansas to trout fish and play golf, oft...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/technology/2022/01/28/lightsail-bitnami-and-ssh.html" rel="permalink">Lightsail, Bitnami and SSH
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">This blog runs in Lightsail on WordPress with a Certified by Bitnami instance. Lately, I’ve run into the following when trying to ssh in from the Lightsail c...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 Brett Bim. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
