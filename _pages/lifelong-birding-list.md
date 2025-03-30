@@ -63,3 +63,8 @@ Inspired by the 75th anniversary of Texas Parks and Wildlife magazine. This is a
 - Eastern Phoebe – Austin, TX Deer Hunt November 2018
 - Woodhouse’s Scrub Jay – Austin, TX Deer Hunt November 2018
 - Cedar Waxwings – Amarillo,Spring Break 2021
+- Red Naped Sapsucker - Davis Mountains Spring Break 2025
+- Canyon Towhee - Davis Mountains Spring Break 2025
+- Western Scrub Jay - Davis Mountains Spring Break 2025
+- Bewick's Wren - Davis Mountains Spring Break 2025
+- White Crowned Sparrow - Davis Mountains Spring Break 2025
